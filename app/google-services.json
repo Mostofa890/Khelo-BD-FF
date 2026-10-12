@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "503510878884",
+    "firebase_url": "https://mcash-7b610-default-rtdb.firebaseio.com",
+    "project_id": "mcash-7b610",
+    "storage_bucket": "mcash-7b610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503510878884:android:f664063c5c481a9d9e3431",
+        "android_client_info": {
+          "package_name": "admin.mcash.wala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        { "current_key": "AIzaSyATqcfsm7ELWhdZxdrhyvoIu6SJ9zRo3ys" }
+      ],
+      "services": {
+        "appinvite_service": { "other_platform_oauth_client": [] }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503510878884:android:f2face674d65b3929e3431",
+        "android_client_info": {
+          "package_name": "com.mcash.wala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        { "current_key": "AIzaSyATqcfsm7ELWhdZxdrhyvoIu6SJ9zRo3ys" }
+      ],
+      "services": {
+        "appinvite_service": { "other_platform_oauth_client": [] }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
